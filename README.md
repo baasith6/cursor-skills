@@ -1,4 +1,4 @@
-# Awesome Cursor Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Cursor Skills 
 
 > A curated list of awesome [skills](https://docs.cursor.com/agent/skills) for [Cursor](https://cursor.com), the AI code editor.
 
